@@ -13,6 +13,6 @@ na `Trilha fundamentar` da `Rocketseat`.
 
 ![Exemplo](img/example2.jpg)
 
-===
+---
 
 ![Rodando](img/running.jpg)
