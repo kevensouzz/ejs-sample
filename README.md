@@ -1,7 +1,5 @@
 ## Fixação de aprendizado | EJS
 
-<div align:"center">
-
 Este é um sistema simples desenvolvido enquato eu acompanhava o módulo `NodeJS + EJS`
 na `Trilha fundamentar` da `Rocketseat`.
 
@@ -18,5 +16,3 @@ na `Trilha fundamentar` da `Rocketseat`.
 ===
 
 ![Rodando](img/running.jpg)
-
- </div>
