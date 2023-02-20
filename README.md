@@ -5,9 +5,11 @@ na `Trilha fundamentar` da `Rocketseat`.
 
 ### Execute-o na sua máquina
 
-> Para executar é necessário o *NodeJS* instalado  
-> No terminal, inserir *node* em seguida o caminho do arquivo `server.js`  
-> No navegador, inserir `Localhost:8080`.
+***Para executar é necessário o *NodeJS* instalado***
+
+> Com o repositório aberto na sua máquina, insira no terminal `npm install`   
+> Com as dependências instaladas, insira *node* em seguida o caminho do arquivo `server.js`  
+> Com o projeto rodando, no navegador, insira `Localhost:8080`.
 
 ![Exemplo](img/example1.jpg)
 
